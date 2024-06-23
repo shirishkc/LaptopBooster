@@ -34,3 +34,20 @@
 
 Download the crystaldiskinfo exe file on your computer/laptop<br>
 Then install the file .
+
+## Network Problem On ur laptop/computer
+
+Open CMD command then 
+ 
+TYPE THE FOLLOWING COMMAND AND HIT ENTER
+ 
+    ipconfig /flushdns
+
+    netsh winsock reset
+
+    netsh int tcp set global autotuninglevel=normal
+
+    ipconfig /release
+
+    ipconfig /renew        
+
