@@ -1,13 +1,14 @@
 # COLLECTION OF APPS COMMAND THAT MIGHT BE HELPFUL FOR YOU...
 
-# IoBit uninstaller and IoBit driver booster
+## IoBit uninstaller and IoBit driver booster
 
 1. Both app are developed by the IoBit 
 2. IoUninstaller helps you to clear/uninstall the app from its core.
 3. IoDriver booster helps you to update the driver and outdated software.
 <br>
 <br>
-##  POWERSHELL COMMAND TO ACTIVATE WINDOWS AND OFFICE...
+
+### POWERSHELL COMMAND TO ACTIVATE WINDOWS AND OFFICE...
 
 1. OPEN POWERSHELL IN YOUR PC/LAPTOP 
  ![step1](./ACTIVATOR/step1.png)
@@ -21,11 +22,11 @@
     ![step2](./ACTIVATOR/STEP2.png)
 
 
-1. THEN A POPUP BOX WILL APPEAR AS <span color:red> WINDOWS COMMAND PROCESSOR</span> . ALLOW "YES"
+1. THEN A POPUP BOX WILL APPEAR AS WINDOWS COMMAND PROCESSOR. ALLOW "YES"
  ![step3](./ACTIVATOR/setp3.png)
 
 
 4. SELECT THE OPTION YOU WANT TO ACTIVATE.
 
-                         DONE.
+    DONE.
 
