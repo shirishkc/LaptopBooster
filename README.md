@@ -8,7 +8,7 @@
 <br>
 <br>
 
-### POWERSHELL COMMAND TO ACTIVATE WINDOWS AND OFFICE...
+## POWERSHELL COMMAND TO ACTIVATE WINDOWS AND OFFICE...
 
 1. OPEN POWERSHELL IN YOUR PC/LAPTOP 
  ![step1](./ACTIVATOR/step1.png)
@@ -30,3 +30,7 @@
 
     DONE.
 
+## CHECK UR SSD/HDD HEALTH .
+
+Download the crystaldiskinfo exe file on your computer/laptop
+Then install the file .
