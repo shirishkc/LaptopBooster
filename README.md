@@ -1,6 +1,6 @@
 # COLLECTION OF APPS COMMAND THAT MIGHT BE HELPFUL FOR YOU...
 
-## <u>IoBit uninstaller and IoBit driver booster</u>
+## <ins>IoBit uninstaller and IoBit driver booster</ins>
 
 1. Both app are developed by the IoBit 
 2. IoUninstaller helps you to clear/uninstall the app from its core.
