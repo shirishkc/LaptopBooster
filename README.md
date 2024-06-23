@@ -39,21 +39,21 @@ Then install the file .
 
 Open the Command Prompt as an administrator and paste the code the hit ENTER:
  
- 1. Clear DNS Cache
+ 1. Clear DNS Cache:
     
-    ipconfig /flushdns
+               ipconfig /flushdns
 
-2. Reset Winsock
+2. Reset Winsock:
     
-    netsh winsock reset
+              netsh winsock reset
 
-3. Optimize Network Settings    
+3. Optimize Network Settings :   
     
-    netsh int tcp set global autotuninglevel=normal
+               netsh int tcp set global autotuninglevel=normal
 
-4. Flush DNS and Renew IP
+4. Flush DNS and Renew IP:
 
-    ipconfig /release
+                 ipconfig /release
 
-    ipconfig /renew        
+             ipconfig /renew        
 
