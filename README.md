@@ -14,7 +14,8 @@
 
 2. THEN AFTER PASTE THIS CODE ON IT     
 
-    CODE -  irm https://massgrave.dev/get |iex 
+    CODE -  
+                 irm https://massgrave.dev/get |iex 
     ![step2](./ACTIVATOR/STEP2.png)
 
 
