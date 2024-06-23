@@ -37,15 +37,21 @@ Then install the file .
 
 ## Network Problem On ur laptop/computer
 
-Open CMD command then 
+Open the Command Prompt as an administrator and paste the code the hit ENTER:
  
-TYPE THE FOLLOWING COMMAND AND HIT ENTER
- 
+ 1. Clear DNS Cache
+    
     ipconfig /flushdns
 
+2. Reset Winsock
+    
     netsh winsock reset
 
+3. Optimize Network Settings    
+    
     netsh int tcp set global autotuninglevel=normal
+
+4. Flush DNS and Renew IP
 
     ipconfig /release
 
