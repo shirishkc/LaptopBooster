@@ -33,7 +33,9 @@
 ## CHECK UR SSD/HDD HEALTH .
 
 Download the crystaldiskinfo exe file on your computer/laptop<br>
-Then install the file .
+Then install the file.
+
+    Launch the app.     GG
 
 ## Network Problem On ur laptop/computer
 
@@ -81,5 +83,5 @@ Open the Command Prompt as an administrator and paste the code the hit ENTER:
     - TEMP
     - %TEMP
     - prefetch
-#### REMOVE ALL THE FILE FROM THEN SIMPLY PRESS CTRL + A THEN SHIFT + DEL .PRESS OK.
+#### "REMOVE ALL THE FILE FROM" OR "SIMPLY PRESS CTRL + A THEN SHIFT + DEL" .PRESS OK.
 
