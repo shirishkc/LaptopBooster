@@ -84,11 +84,11 @@ Open the Command Prompt as an administrator and paste the code the hit ENTER:
     - %TEMP
     - prefetch
 
+ ***<ins>Open cmd as administrator.</ins>***
 5. Disk Cleanup.
  
-   Opens the Disk Cleanup utility to remove unnecessary files and free up disk space.
+        cleanmgr
 
-    <ins>***Open cmd as administrator.***</ins>
 6. Disk Check.
 
             chkdsk/r
