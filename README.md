@@ -87,5 +87,5 @@ Open the Command Prompt as an administrator and paste the code the hit ENTER:
 
 ## CMD COMMAND TO UPGRADE ALL THE DRIVER AND SOFTWARE:
 
-CODE:
+1. CODE:
             winget upgrade --all
