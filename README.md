@@ -83,6 +83,20 @@ Open the Command Prompt as an administrator and paste the code the hit ENTER:
     - TEMP
     - %TEMP
     - prefetch
+
+5. Disk Cleanup.
+ 
+   Opens the Disk Cleanup utility to remove unnecessary files and free up disk space.
+
+    <ins>***Open cmd as administrator.***</ins>
+6. Disk Check.
+
+            chkdsk/r
+
+7. System File Checker.
+
+             sfc /scannow
+
 #### "REMOVE ALL THE FILE FROM" OR "SIMPLY PRESS CTRL + A THEN SHIFT + DEL" .PRESS OK.
 
 ## <ins>CMD COMMAND TO UPGRADE ALL THE DRIVER AND SOFTWARE:</ins>
