@@ -1,14 +1,14 @@
 # COLLECTION OF APPS COMMAND THAT MIGHT BE HELPFUL FOR YOU...
 
-## <ins>IoBit uninstaller and IoBit driver booster</ins>
+## <ins>I0Bit uninstaller and I0Bit driver booster</ins>
 
 1. Both app are developed by the IoBit 
-2. IoUninstaller helps you to clear/uninstall the app from its core.
-3. IoDriver booster helps you to update the driver and outdated software.
+2. I0Uninstaller helps you to clear/uninstall the app from its core.
+3. I0Driver booster helps you to update the driver and outdated software.
 <br>
 <br>
 
-## POWERSHELL COMMAND TO ACTIVATE WINDOWS AND OFFICE...
+## <ins>POWERSHELL COMMAND TO ACTIVATE WINDOWS AND OFFICE...</ins>
 
 1. OPEN POWERSHELL IN YOUR PC/LAPTOP 
  ![step1](./ACTIVATOR/step1.png)
@@ -30,14 +30,14 @@
 
     DONE.
 
-## CHECK UR SSD/HDD HEALTH .
+##<ins>CHECK UR SSD/HDD HEALTH .</ins>
 
 Download the crystaldiskinfo exe file on your computer/laptop<br>
 Then install the file.
 
     Launch the app.     GG
 
-## Network Problem On ur laptop/computer
+## <ins> Network Problem On ur laptop/computer </ins>
 
 Open the Command Prompt as an administrator and paste the code then hit ENTER:
  
@@ -60,7 +60,7 @@ Open the Command Prompt as an administrator and paste the code then hit ENTER:
                ipconfig /renew        
 
 
-## Ultimate Performance CMD COMMAND FOR LAPTOP:
+## <ins> Ultimate Performance CMD COMMAND FOR LAPTOP:</ins>
 
 Open the Command Prompt as an administrator and paste the code the hit ENTER:
 
@@ -85,7 +85,7 @@ Open the Command Prompt as an administrator and paste the code the hit ENTER:
     - prefetch
 #### "REMOVE ALL THE FILE FROM" OR "SIMPLY PRESS CTRL + A THEN SHIFT + DEL" .PRESS OK.
 
-## CMD COMMAND TO UPGRADE ALL THE DRIVER AND SOFTWARE:
+## <ins>CMD COMMAND TO UPGRADE ALL THE DRIVER AND SOFTWARE:</ins>
 
 1. CODE.
            
