@@ -85,3 +85,7 @@ Open the Command Prompt as an administrator and paste the code the hit ENTER:
     - prefetch
 #### "REMOVE ALL THE FILE FROM" OR "SIMPLY PRESS CTRL + A THEN SHIFT + DEL" .PRESS OK.
 
+## CMD COMMAND TO UPGRADE ALL THE DRIVER AND SOFTWARE:
+
+CODE:
+            winget upgrade --all
