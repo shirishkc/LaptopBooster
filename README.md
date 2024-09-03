@@ -97,6 +97,14 @@ Open the Command Prompt as an administrator and paste the code the hit ENTER:
 
              sfc /scannow
 
+8. Check for virus 
+
+WIN + R on keyboard
+
+        mrt 
+
+Then choose the option u want to scan ..
+
 #### "REMOVE ALL THE FILE FROM" OR "SIMPLY PRESS CTRL + A THEN SHIFT + DEL" .PRESS OK.
 
 ## <ins>CMD COMMAND TO UPGRADE ALL THE DRIVER AND SOFTWARE:</ins>
